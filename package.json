@@ -1,7 +1,7 @@
 {
   "name": "react-emotion-shadow",
   "description": "A Shadow Container which ensure/encapsulate the style of inner components using emotion.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "module": "dist/react-emotion-shadow.esm.js",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
     "node": ">=12"
   },
   "repository": {
-    "url": "https://github.com/zhaoayo91/react-emotion-shadow"
+    "url": "https://github.com/zhaoyao91/react-emotion-shadow"
   },
   "author": {
     "name": "zhaoyao91",
