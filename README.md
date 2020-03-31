@@ -52,6 +52,10 @@ function DemoApp() {
 - If a component is in a portal which is mounted outside the shadow root, it will lose the styles.
 - There is risk for complex and complicated components, such as rich text editor. 
 
+## Thanks for
+
+- [react-shadow](https://github.com/Wildhoney/ReactShadow)
+
 ## License
 
 MIT
