@@ -4,6 +4,10 @@ A [Shadow Container
 ](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) which ensure/encapsulate the style of  
 inner components using emotion.
 
+## Deprecation
+
+The original [ReactShadow](https://github.com/Wildhoney/ReactShadow) has already supported emotion officially.
+
 ## Motivation
 
 With css-in-js such as [emotion](https://emotion.sh/), component can scope its style so it won't hurt the others. But
